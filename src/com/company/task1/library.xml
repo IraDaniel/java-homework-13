@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <name>Romeo and Juliet</name>
+        <author>William Shakespeare</author>
+        <description>
+            the famous romantic tragedy of sexually charged adolescence, love, and death
+        </description>
+    </book>
+    <book id="2">
+        <name>Eugene Onegin</name>
+        <author>Alexander Pushkin</author>
+        <description>
+            is a novel in verse
+        </description>
+    </book>
+
+</library>
